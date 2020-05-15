@@ -3,12 +3,8 @@ a project that tests the genetic programming library gplearn: https://gplearn.re
 
 Project Members:
 
-
 Animesh KC (Black Box testing)
 
-Emily Ingram (White Box testing lead) — Github unknown
-Animesh KC (Black Box testing) 
-
-Emily Ingram (White Box testing lead) — Github unknown \n
+Emily Ingram (White Box testing lead) — Github unknown 
 
 [Glen Rhodes](https://github.com/glnnrhodes "Github link") (White Box testing assistant)
